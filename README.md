@@ -3,9 +3,7 @@
 
 **DOI: NA**
 
-Based R version (4.4.1) Based LorMe package version (2.0.1)
-
-**Note: See all files in branch 'master'**
+Based R version (4.4.1) Based LorMe package version (2.0.3)
 
 Click into each file, then Please start with '.Rproj', where I already set the working directory. Then each of the '.R' scripts are available for running individually.
 
