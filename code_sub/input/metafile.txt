@@ -1,0 +1,25 @@
+SAMPLE ID	Treatment	Rep
+Control1	Control	1
+Control2	Control	2
+Control3	Control	3
+Control4	Control	4
+Control5	Control	5
+Control6	Control	6
+Control7	Control	7
+Control8	Control	8
+Control9	Control	9
+Control10	Control	10
+Control11	Control	11
+Control12	Control	12
+Propineb1	Propineb	1
+Propineb2	Propineb	2
+Propineb3	Propineb	3
+Propineb4	Propineb	4
+Propineb5	Propineb	5
+Propineb6	Propineb	6
+Propineb7	Propineb	7
+Propineb8	Propineb	8
+Propineb9	Propineb	9
+Propineb10	Propineb	10
+Propineb11	Propineb	11
+Propineb12	Propineb	12
